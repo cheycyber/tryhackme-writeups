@@ -108,3 +108,44 @@ Log analyzers and threat intel platforms
 
 💬 Reflection
 This room helped me understand what it’s really like to work in a SOC. I’m more interested than ever in blue teaming and can see myself in a role that involves log analysis, alert triage, and helping secure real networks. It made cybersecurity feel even more real.
+
+ Floor 4: Careers in Cybersecurity
+Date Completed: April 2025
+
+📌 Overview
+This room explored different career paths within cybersecurity. I learned how roles are categorized (offensive, defensive, governance, etc.), what each one focuses on, and what skills or certifications are recommended. It helped me start thinking about where I want to specialize.
+
+🛠️ What I Did
+Compared blue team, red team, and GRC (governance, risk, compliance) roles
+
+Explored job descriptions and day-to-day responsibilities
+
+Reviewed beginner-friendly career paths like SOC analyst, threat hunter, and security analyst
+
+Identified certs like Security+, CySA+, and SSCP
+
+Researched career goals and how to build experience without a degree
+
+💡 What I Learned
+Cybersecurity has a wide range of careers, not just hacking
+
+Blue team (defense) is where I feel most aligned right now
+
+It’s possible to break in with certs, labs, and a strong portfolio
+
+Continuous learning is key—technology evolves constantly
+
+Soft skills like communication, documentation, and teamwork matter
+
+🔍 Key Takeaways
+Entry-level roles: SOC Analyst, Jr. Security Analyst, Help Desk to Cyber
+
+Most roles use tools like SIEMs, EDR, and ticketing systems
+
+Career-building steps: home labs, TryHackMe, GitHub, LinkedIn presence
+
+You don’t need to know everything—you just need to keep growing
+
+💬 Reflection
+This room made me feel more confident that there’s a place for me in cybersecurity. I don’t need to be an expert yet—I just need to keep learning, building, and staying consistent. I’m excited to keep exploring blue team roles and eventually specialize in digital forensics or threat detection.
+
