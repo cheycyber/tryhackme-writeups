@@ -73,4 +73,38 @@ Web browsers + search engines for recon
 💬 Reflection
 This room helped me understand how attackers approach networks, and why that mindset is crucial to building defense strategies. It made me curious to learn more about penetration testing, CTFs, and red team vs. blue team roles. I’m excited to try hands-on labs in future rooms.
 
+🛡️ Floor 3: Defensive Security Intro
+Date Completed: April 2025
 
+📌 Overview
+This room introduced the basics of defensive security—how cybersecurity professionals monitor, detect, and respond to threats in real time. I learned how blue teamers protect networks by setting up defenses, analyzing logs, and responding to incidents.
+
+🛠️ What I Did
+Learned about the structure and role of a SOC (Security Operations Center)
+
+Explored different types of security tools used in defensive security
+
+Identified log sources and how they’re used to spot suspicious activity
+
+Reviewed common threat detection strategies and real-life attack responses
+
+💡 What I Learned
+The blue team’s job is to detect, analyze, and respond to security threats
+
+Tools like SIEMs, firewalls, and IDS/IPS systems are used daily
+
+Logs from endpoints, networks, and servers are crucial for monitoring
+
+Incident response includes preparation, identification, containment, and recovery
+
+Strong communication and documentation are key to successful defense
+
+🔍 Tools Discussed
+SIEM platforms (like Splunk and ELK Stack)
+
+Firewalls and IDS/IPS tools
+
+Log analyzers and threat intel platforms
+
+💬 Reflection
+This room helped me understand what it’s really like to work in a SOC. I’m more interested than ever in blue teaming and can see myself in a role that involves log analysis, alert triage, and helping secure real networks. It made cybersecurity feel even more real.
